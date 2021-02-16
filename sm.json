@@ -1,0 +1,6 @@
+{
+  "libraries": [
+    "@/slices"
+  ],
+  "_latest": "0.0.44"
+}
